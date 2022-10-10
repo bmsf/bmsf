@@ -17,11 +17,11 @@
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
-<img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" />
+<img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 
 ---
 
-## 📊
+## Stats 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsf&count_private=true&show_icons=true&theme=calm)
+![Bjørn-Magnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsf&count_private=true&show_icons=true&theme=calm)
