@@ -19,9 +19,18 @@
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+<br />
 
 ---
 
 ## Stats 📊
 
 ![Bjørn-Magnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsf&count_private=true&show_icons=true&theme=calm)
+
+---
+
+## Socials 🚀
+
+[<img align='left' alt='react' width='50px' style='padding-right:10px;' target='_blank' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/bmfromreide)
+
+[<img align='left' alt='react' width='50px' style='padding-right:10px;' target='_blank' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/bj%C3%B8rn-magnus-fromreide-18b1a1170/)
