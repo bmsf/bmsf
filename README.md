@@ -7,4 +7,6 @@
 
 ## Languages 🔨
 
-<img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
+
+- <img align='left' alt='react' width='50px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> React
