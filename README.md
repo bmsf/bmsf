@@ -1,7 +1,9 @@
 # Bjørn-Magnus Fromreide 👋
 
-- I am a 28 years old developer from Norway. Currently studying at Noroff - School of technology and digital media :mortar_board:
-- My focus is on frontend and I like to make solutions that customers and users find appealing to the eye.
+
+- 28 years old developer from Norway 🇳🇴
+- Currently studying at Noroff - School of technology and digital media :mortar_board:
+- My focus is on frontend and I like to make solutions that customers and users find appealing to the eye 👨🏻‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsf&layout=compact)](https://github.com/bmsf/github-readme-stats)
 
