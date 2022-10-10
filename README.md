@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsf&layout=compact)](https://github.com/bmsf/github-readme-stats)
 
----
 
 ## Languages and tools 🔨
 
